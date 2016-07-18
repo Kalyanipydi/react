@@ -1,0 +1,22 @@
+{
+  "name": "reactjsapp",
+  "homepage": "https://github.com/Kalyanipydi/Jquery_Assignment",
+  "description": "my first app",
+  "main": "",
+  "authors": [
+    "kalyani"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.2.0",
+    "babel": "*",
+    "bootstrap": "^3.3.6"
+  }
+}
